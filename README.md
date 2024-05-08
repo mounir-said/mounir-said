@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on open source web development projects.
 
-📫 How to reach me: You can reach me via email at mou.sai.ms3@gmail.com or connect with me on LinkedIn at My LinkedIn Profile :  www.linkedin.com/in/said-mounir1 
+📫 How to reach me: You can reach me via email at mou.sai.ms3@gmail.com or connect with me on LinkedIn at My LinkedIn Profile :  www.linkedin.com/in/said-mounir 
 
 😄 Pronouns: he/him.
 
