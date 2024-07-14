@@ -47,12 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mounir-said/mounir-said/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/mounir-said/count.svg?"  />
 </div>
